@@ -1,3 +1,3 @@
-# Form Control Composable demo
+# Composition API demo
 
-For discussion, see; https://netvlies.jira.com/l/cp/Negm2RZq
+Check the code and play around!
